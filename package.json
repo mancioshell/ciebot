@@ -1,0 +1,16 @@
+{
+  "name": "CIE Bot",
+  "version": "1.0.0",
+  "description": "CIE Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alessandro Mancini <dott.alessandro.mancini@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.0",
+    "puppeteer": "^19.5.2"
+  }
+}
